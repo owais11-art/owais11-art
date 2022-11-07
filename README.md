@@ -1,6 +1,6 @@
 - 👋 Hi, I’m owais khan.
 - 👀 I’m interested in mobile and web development.
-- 🌱 I’m currently learning kotlin and android development.
+- 🌱 I’m currently learning React.
 - 📧 You can email me at owaiszahoor79@gmail.com.
 
 <!---
