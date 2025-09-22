@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Owais Khan.
-- 👀 I’m interested in mobile and web app development.
+- 👀 I’m interested in software development.
 - 🌱 I’m currently learning Backend development using PHP and Laravel.
 - 📧 You can email me at owaiszahoor79@gmail.com
 - 🔗 You can connect with me on [LinkedIn](https://www.linkedin.com/in/owais-khan-a482b9158/), [Twitter](https://x.com/owais_khan_11), [Mastodon](https://mastodon.social/@Owais_Khan), [Bluesky](https://bsky.app/profile/owais-khan.bsky.social)
